@@ -1,4 +1,4 @@
-UnityOS system requrenments(minimum)
+UnityOS system requirenments(minimum)
 
 RAM- 2gb(Although for best experience 3gb is recommended)
 
